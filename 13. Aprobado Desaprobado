@@ -1,0 +1,20 @@
+Algoritmo  Pasas
+	Definir alumnos, pasa, nopasa, inicial, notamin Como real;
+	Escribir "Ingrese los alumnos a calificar";
+	Leer alumnos;
+	pasa=0;
+	nopasa=0;
+	Para inicial=1 Hasta alumnos Hacer
+		Escribir "Digite las notas correspondientes"; 
+		Leer notamin;
+		si notamin>=10.5
+			pasa=pasa+1;
+		SiNo 
+			nopasa=nopasa+1;
+		FinSi
+	FinPara
+	Escribir "Los aprobados son " pasa;
+	Escribir "Los desaprobados son " nopasa;
+FinAlgoritmo
+
+	

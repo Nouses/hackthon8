@@ -1,0 +1,10 @@
+Algoritmo vota
+	Definir edad Como Entero;
+	Escribir "Ingrese la edad del votante";
+	Leer edad;
+	si edad<18 Entonces
+		Escribir "Tu edad es de " edad " años, Usted no puede participar en estas elecciones";
+	SiNo
+		Escribir "Tu edad es de " edad " años, Usted puede participar en estas elecciones, pase a la mesa 5";
+	FinSi
+FinAlgoritmo
