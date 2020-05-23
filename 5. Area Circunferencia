@@ -1,0 +1,8 @@
+Algoritmo areacircunferencia
+	Definir r,area,pic Como Real;
+	Escribir "Ingrese las medida del radio de la circunferencia ";
+	Leer r;
+	pic=3.1415926535;
+	area=(pic*(r*r));
+	Escribir "El area de la circunferencia con el radio ingrsado es " area;
+FinAlgoritmo

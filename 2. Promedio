@@ -1,0 +1,13 @@
+Algoritmo Promedionotas
+	Definir n1,n2,n3,n4,suma,promedio Como Real;
+	Escribir "Buenos días, ingrese sus ultimas 4 notas para determinar su promedio";
+	Leer n1,n2,n3,n4;
+	suma = n1+n2+n3+n4;
+	promedio=suma/4;
+	Escribir "El promedio de sus 4 notas es " promedio;
+	si promedio>10.5 Entonces
+		escribir "Usted esta aprobado";
+	SiNo
+		escribir "Usted esta desaprobado";
+	FinSi
+FinAlgoritmo

@@ -1,0 +1,10 @@
+Algoritmo areatriangulo
+	Definir b,h,area Como Real;
+	Escribir "Ingrese las medidas del triangulo, indique la medida de la base en cm ";
+	Leer b;
+	Escribir "Ingrese la altura en cm";
+	Leer h;
+	area=(b*h)/2;
+	Escribir "El area del trinagulo con las medidas ingresadas es " area " cm cuadrados";
+FinAlgoritmo
+	

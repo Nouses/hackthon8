@@ -1,0 +1,14 @@
+Algoritmo tipodecambio
+	
+	Definir soles, tc, calculo Como Real;
+	Escribir "Ingresos los soles que quiere cambiar a dolares";
+	Leer soles;
+	Escribir "Ingrese el TC del dia para determinar el cambio a dolares";
+	Leer tc;
+	
+	calculo=soles / tc;
+	Escribir "Los S/ " soles " soles ingresados al tipo de cambio del dia " tc " equivalen a $ " calculo " dolares";
+	
+	
+FinAlgoritmo
+	

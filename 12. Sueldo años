@@ -1,0 +1,42 @@
+Algoritmo salario
+	
+	Definir s, s1, s2, s3, s4, s5, incremento, año Como Real;
+	Escribir " Ingrese los años laborados ";
+	Leer año;
+	s=1500;
+	s1=s*1.1;
+	s2=s1*1.1;
+	s3=s2*1.1;
+	s4=s3*1.1;
+	s5=s4*1.1;
+	
+	si año=1 entonces 
+		Escribir " Su sueldo es " s " soles";
+	FinSi
+	
+	si año=2 entonces 
+		Escribir " Su sueldo es " s1 " soles";
+	FinSi
+	
+	si año=3 entonces 
+		Escribir " Su sueldo es " s2 " soles";
+	FinSi
+	
+	si año=4 entonces 
+		Escribir " Su sueldo es " s3 " soles";
+	FinSi
+	
+	si año=5 entonces 
+		Escribir " Su sueldo es " s4 " soles";
+	FinSi
+	
+	si año=6 entonces 
+		Escribir " Su sueldo es " s5 " soles";
+	FinSi
+	
+	Escribir " =====================================" ;
+	Escribir " los sueldos de los 6 años son " s " , " s1 " , " s2 " , " s3 " , " s4  " , " s5 ;
+
+	
+FinAlgoritmo
+	

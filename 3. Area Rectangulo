@@ -1,0 +1,11 @@
+Algoritmo arearectangulo
+	Definir b,h,area,perimetro Como Real;
+	Escribir "Ingrese las medidas del rectangulo, indique la medida de la base en cm ";
+	Leer b;
+	Escribir "Ingrese la altura en cm";
+	Leer h;
+	area=b*h;
+	perimetro=(b*2)+(h*2);
+	Escribir "El area del rectangulo con las medidas ingresadas es " area " cm cuadrados y tiene un perimeto de " perimetro " cm";
+FinAlgoritmo
+	

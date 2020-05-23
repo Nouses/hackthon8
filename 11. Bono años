@@ -1,0 +1,16 @@
+Algoritmo bonoaño
+	
+	Definir años, bono, monto, calculo Como Real;
+	
+	Escribir "Ingresa los años de antiguedad del trabajador" ;
+	leer años;
+	bono=100;
+	monto=1000;
+	calculo = años * bono;
+	si años>5 Entonces
+		calculo=1000;
+	FinSi
+	Escribir "El bono que le correponde por tener " años " años de antiguedad es de " calculo " Dolares";
+	
+FinAlgoritmo
+	

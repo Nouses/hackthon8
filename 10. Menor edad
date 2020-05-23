@@ -1,0 +1,26 @@
+Algoritmo menor
+	
+	Definir p1, p2, p3 Como Real;
+	Definir n1,n2,n3 Como Caracter;
+	
+	Escribir "Ingresa la primera edad y nombre, respetar el orden" ;
+	leer p1,n1;
+	Escribir "Ingresa la segunda edad y nombre, respetar el orden";
+	leer p2,n2;
+	Escribir "Ingresa la tercera edad y nombre, respetar el orden" ;
+	leer p3,n3;
+	
+	Si p1<p2 Entonces
+		Si p1<p3 Entonces
+			Escribir "La menor edad es de " n1 " que tiene "  p1 " años";
+		FinSi
+	SiNo
+		Si p2<p3 Entonces
+			Escribir "La menor edad es de " n2 " que tiene "  p2 " años";
+		SiNo
+			Escribir "La menor edad es de " n3 " que tiene "  p3 " años";
+		FinSi
+	FinSi
+	
+FinAlgoritmo
+	

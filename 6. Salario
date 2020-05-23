@@ -1,0 +1,10 @@
+Algoritmo Sueldo_semanal
+	Definir horas,horashombre,sueldo Como real;
+	Escribir "Bienvenido al sistema de planillas, ingrese el costo de hora hombre";
+	Leer horashombre;
+	Escribir "Ingrese la cantidad de horas laboradas";
+	Leer horas;
+		sueldo = horas * horashombre;
+	Escribir "el sueldo correspondiente al trabajador es : " sueldo " Soles";
+	Escribir "Gracias por usar el sistema de planillas, vuelva pronto";
+FinAlgoritmo

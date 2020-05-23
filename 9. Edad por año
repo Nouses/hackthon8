@@ -1,0 +1,13 @@
+Algoritmo edad
+	
+	Definir edadd, añoactual, calculo Como Real;
+	Escribir "Ingrese el año de nacimiento del trabajador";
+	Leer edadd;
+	añoactual=2020;
+	
+	calculo=añoactual-edadd;
+	Escribir "El trabajador segun el año de nacimiento tiene " calculo " años";
+	
+	
+FinAlgoritmo
+	

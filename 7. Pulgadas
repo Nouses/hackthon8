@@ -1,0 +1,8 @@
+Algoritmo Pulgadas
+	Definir metros,pulgas,conversion Como real;
+	Escribir "Te ayudamos a estandarizar tus medidas, ingrese el los metros a convertir en pulgadas";
+	Leer metros;
+	pulgas=0.0254;
+		conversion = metros / pulgas;
+	Escribir "Los " metros " metros ingresados equivales a " conversion " pulgadas";
+FinAlgoritmo

@@ -1,0 +1,8 @@
+1. ¿Cuál es la importancia de usar un algoritmo?
+Es importante por que el uso de los algoritmos nos permite evaluar variables con los cuales podemos definir procedimientos para la mejora de una actividad u operacion, como en el caso de TuTienda, quieren mejorar el tema de envios en base al analisis de tiempo y distancia.
+
+2. ¿Cómo un algoritmo mejora el proceso o servicio de una empresa?
+Nos permite mejorar nuestra empresa por que nos ayuda a evaluar variables y procedimientos para que estos puedan ser mejorados o descartados.
+
+3. ¿El algoritmo expuesto en este caso es el único con el que cuenta TuTienda?
+Yo creo que no, si tienen un area de tecnologia se implementaron diferentes algoritmos para poder obtener los datos estadisticos que indican al inicio de la lectura, esto en base a la evaluacion de variables como visitas, compras, tipo de pago, entro otros.

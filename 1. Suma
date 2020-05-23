@@ -1,0 +1,15 @@
+Algoritmo SUMAMOS
+	
+	Definir n1,n2,suma Como real;
+	Escribir "Bienvenido al sistema de sumas, ingrese el primero numero a sumar";
+	Leer n1;
+	Escribir "Ingrese el segundo numero a sumar";
+	Leer n2;
+	
+		suma = n1 + n2;
+		
+	Escribir "La suma de los dos numeros es : " suma;
+	Escribir "Gracias por usar el sistema de sumas, vuelva pronto";
+
+	
+FinAlgoritmo
